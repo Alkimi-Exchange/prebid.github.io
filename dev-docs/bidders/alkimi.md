@@ -12,7 +12,7 @@ usp_supported: true
 coppa_supported: true
 userIds: all
 floors_supported: true
-multiformat_supported: will-bid-on-any
+multiformat_supported: will-bid-on-2any
 sidebarType: 1
 ---
 
