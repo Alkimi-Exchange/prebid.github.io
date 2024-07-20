@@ -39,7 +39,7 @@
     "awesomplete": "^1.1.5",
     "bootstrap": "^4.5.3",
     "bourbon": "^7.0.0",
-    "include-media": "^1.4.9",
+    "include-media": "^1.4.10",
     "popper.js": "^1.16.1"
   }
 }
